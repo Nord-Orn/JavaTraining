@@ -16,3 +16,9 @@ target
 pom.xml
 src
 target
+.git
+.gitignore
+.idea
+pom.xml
+src
+target
